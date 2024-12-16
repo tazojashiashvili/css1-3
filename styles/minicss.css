@@ -1,0 +1,51 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#firstTitle {
+    font-size: 72px;
+    text-align: center;
+    color: #000000;
+    margin-top: 48px;
+    margin-bottom: 53px;
+    width: 704px;
+    height: 86px;
+}
+
+#firstText {
+    color: #FF8000;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 53px;
+    margin-bottom: 63px;
+    max-width: 1220px;
+    height: 64px;
+}
+
+#secondTitle {
+    color: #D9AE00;
+    font-size: 40px;
+    margin-left: 74.5px;
+    margin-top: 63px;
+    margin-bottom: 24px;
+
+}
+
+#secondText {
+    color: #6D81B4;
+    font-size: 24px;
+    width: 681px;
+    height: 145px;
+    margin-top: 24px;
+    margin-left: 74.5px;
+    margin-bottom: 30px;
+}
+
+#photoOfMeteors {
+    width: 696px;
+    height: 415px;
+    margin-left: 67px;
+    margin-bottom: 101px;
+}
