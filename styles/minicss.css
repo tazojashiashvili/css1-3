@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-#firstTitle {
+h1 {
     font-size: 72px;
     text-align: center;
     color: #000000;
@@ -48,4 +48,123 @@
     height: 415px;
     margin-left: 67px;
     margin-bottom: 101px;
+}
+
+#firstContainer {
+    border: 2px solid #000;
+    max-width: 1007px;
+    height: 717px;
+    margin-left: 74px;
+    margin-top: 101px;
+    margin-bottom: 101px;
+    background-color: #FFCEBE;
+}
+
+#titleOfHoleTheory {
+    color: #F44E50;;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 24px;
+}
+
+#textOfHoleTheory {
+    color: #8B2B2C;
+    text-align: center;
+    padding-bottom: 30px;
+    max-width: 681px;
+    height: 72px;
+}
+
+#photoOfBlackHOle {
+    padding-left: 64px;
+    padding-bottom: 64px;
+    padding-right: 64px;
+}
+
+#titleOfSectionTwo {
+    color: #4716E4;
+    font-size: 40px;
+    max-width: 696px;
+    height: 48px;
+    margin-left: 74px;
+    margin-bottom: 24px;
+    text-align: end;
+}
+
+#stringText {
+    color: #616161;
+    font-size: 24px;
+    border: 3px solid #FF5DA3;
+    max-width: 696px;
+    height: 222px;
+    margin-left: 74px;
+    margin-bottom: 30px;
+    background-color: #FFC1E3;
+    padding: 24px;
+    text-align: right;
+}
+
+#threeKey {
+    color: #414651;
+    font-size: 24px;
+    margin-left: 74px;
+}
+
+#firstVector {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 8px;
+    margin-left: 74px;
+}
+
+#universeDescription {
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 668px;
+    height: 72px;
+    margin-top: 16px;
+    margin-left: 12px;
+    margin-bottom: 8px;
+    color: #C27512;
+}
+
+#secondVector {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 8px;
+    margin-left: 74px;
+}
+
+#dimensionalSpace {
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 668px;
+    height: 72px;
+    margin-bottom: 8px;
+    margin-left: 12px;
+    color: #C27512;
+}
+
+#thirdVector {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 74px;
+    margin-bottom: 30px;
+    margin-right: 12px;
+}
+
+#VibratingStrings {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 668px;
+    height: 72px;
+    margin-bottom: 30px;
+    color: #C27512;
+}
+
+#lastImage {
+    margin-left: 74px;
+    width: 696px;
+    height: 415px;
 }
